@@ -1,7 +1,7 @@
 # 2016_Election_Data_Visualization
 
 ## Description
-Final Project for my first semester at Lafayette College. Langauge used is Processing.  The project visualizes the 2016 election data in interactive charts and word clouds.
+Final Project for my first semester at Lafayette College. Langauge used is Processing.  The project visualizes the 2016 election data with interactive charts and word clouds.
 
 ## Demo
 By running the .pde file, you can do the following:<br />
