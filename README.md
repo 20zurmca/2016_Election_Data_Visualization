@@ -6,8 +6,14 @@ Final Project for my first semester at Lafayette College. Langauge used is Proce
 ## Demo
 By running the .pde file, you can do the following:<br />
 <b>Select Line Chart or Bar Char </b> <br />
+<img src = "https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/menu.PNG">
 
 <b>View Line Chart for Search Popularity </b> <br />
+<img src="https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/lineChart.PNG">
+
 <b>View Bar Graph for number of words said during the debates</b> <br />
-<b>View a word cloud for each candidate for each debate by clicking on the candidate's bar. Note that the gif does not capture all the lines in the chart. </b> <br />
+<img src = "https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/barChart.PNG">
+
+<b>View a word cloud for each candidate for each debate by clicking on the candidate's bar. </b><br />
+<img src = "https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/wordCloud.gif">
 
