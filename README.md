@@ -9,7 +9,7 @@ By running the .pde file, you can do the following:<br />
 <img src = "https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/menu.PNG">
 
 <b>View Line Chart for Search Popularity </b> <br />
-<img src="https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/lineChart.PNG">
+<img src="https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/lineChart.gif">
 
 <b>View Bar Graph for number of words said during the debates</b> <br />
 <img src = "https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/barChart.PNG">
