@@ -8,7 +8,7 @@ By running the .pde file, you can do the following:<br />
 <b>Select Line Chart or Bar Char </b> <br />
 <img src = "https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/menu.PNG">
 
-<b>View Line Chart for Search Popularity </b> <br />
+<b>View Line Chart for Search Popularity. The green line represents the largest spike in popularity for each candidate </b> <br />
 <img src="https://github.com/20zurmca/2016_Election_Data_Visualization/blob/master/demo/lineChart.gif">
 
 <b>View Bar Graph for number of words said during the debates</b> <br />
