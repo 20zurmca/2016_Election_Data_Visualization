@@ -5,9 +5,9 @@ Final Project for my first semester at Lafayette College. Langauge used is Proce
 
 ## Demo
 By running the .pde file, you can do the following:<br />
-<b>Select Line Chart or Bar Char </b>
+<b>Select Line Chart or Bar Char </b> <br />
 
-<b>View Line Chart for Search Popularity </b>
-<b>View Bar Graph for number of words said during the debates</b>
-<b>View a word cloud for each candidate for each debate by clicking on the candidate's bar. Note that the gif does not capture all the lines in the chart. </b>
+<b>View Line Chart for Search Popularity </b> <br />
+<b>View Bar Graph for number of words said during the debates</b> <br />
+<b>View a word cloud for each candidate for each debate by clicking on the candidate's bar. Note that the gif does not capture all the lines in the chart. </b> <br />
 
